@@ -27,8 +27,6 @@
  
   <br>
   
-  ![Snake animation](https://github.com/Surik4to06/Surik4to06/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 <br>
