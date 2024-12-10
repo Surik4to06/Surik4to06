@@ -31,8 +31,3 @@
 
 <br>
 
-<div>
-  <h1 color='#1F51FF'>Algumas Coisas Sobre mim</h1>
-  <p>Sou um adolecente que estou no ultimo ano do ensino médio, atualmente do cursando desenvolvimento de sistemas(DS) mas estou quase acabando o curso também, e oretendo aprender cada vez mais sobre programação e fazer projetos gigantes e úteis para algo, tanto pedagógico como a negócios em fim.</p>
-  
-</div>
