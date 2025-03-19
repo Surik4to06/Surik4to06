@@ -1,4 +1,4 @@
-## Opa!! prazer me chamo Richard Silva Leão e meu apelido é Surik4to e estudo programação
+
 <br>
 
 <div>
